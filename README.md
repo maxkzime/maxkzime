@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything that can teach me code
-- Im french baguette baguette croissant
+- 🇫🇷 🥐 🥖 I’m french baguette baguette croissant
 - Je suis en BUT1 info à La Rochelle, en Fr
 
 <!---
