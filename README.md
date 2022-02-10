@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @maxkzime
-- I’m interested in coding
 - I’m currently learning C++
 - I’m looking to collaborate on anything that can teach me code
 - 🇫🇷 🥐 🥖 I’m french baguette baguette croissant
